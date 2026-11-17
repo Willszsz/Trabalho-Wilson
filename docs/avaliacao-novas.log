@@ -1,0 +1,318 @@
+
+[INFO] Arquivo selecionado: imagens/novas/img_036.jpg
+[OK] Imagem carregada. Dimensões: 960 x 1280 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 4 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 296 | Y: 904 | Largura: 169 | Altura: 81
+[ARQUIVO] resultados/novas/img_036_20261117_131534_427911_5168ea23/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.408 segundos.
+[ARQUIVOS] resultados/novas/img_036_20261117_131534_427911_5168ea23
+[AVALIAÇÃO] img_036.jpg: IoU 0.780
+
+[INFO] Arquivo selecionado: imagens/novas/img_037.jpg
+[OK] Imagem carregada. Dimensões: 1200 x 1600 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 3 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 453 | Y: 789 | Largura: 147 | Altura: 79
+[ARQUIVO] resultados/novas/img_037_20261117_131534_838466_4c05313b/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.878 segundos.
+[ARQUIVOS] resultados/novas/img_037_20261117_131534_838466_4c05313b
+[AVALIAÇÃO] img_037.jpg: IoU 0.860
+
+[INFO] Arquivo selecionado: imagens/novas/img_038.jpg
+[OK] Imagem carregada. Dimensões: 2782 x 3606 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 13 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 1124 | Y: 1732 | Largura: 570 | Altura: 280
+[ARQUIVO] resultados/novas/img_038_20261117_131535_844470_140c21cc/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 1.172 segundos.
+[ARQUIVOS] resultados/novas/img_038_20261117_131535_844470_140c21cc
+[AVALIAÇÃO] img_038.jpg: IoU 0.883
+
+[INFO] Arquivo selecionado: imagens/novas/img_039.jpg
+[OK] Imagem carregada. Dimensões: 1993 x 2484 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 2 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 820 | Y: 1294 | Largura: 235 | Altura: 132
+[ARQUIVO] resultados/novas/img_039_20261117_131536_900168_317d9980/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.730 segundos.
+[ARQUIVOS] resultados/novas/img_039_20261117_131536_900168_317d9980
+[AVALIAÇÃO] img_039.jpg: IoU 0.811
+
+[INFO] Arquivo selecionado: imagens/novas/img_040.jpg
+[OK] Imagem carregada. Dimensões: 2278 x 2803 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 9 candidatas após os filtros.
+[AVISO] Limite de contornos atingido; foram analisados os maiores.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 1031 | Y: 1305 | Largura: 247 | Altura: 121
+[ARQUIVO] resultados/novas/img_040_20261117_131537_660482_3bbad648/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.834 segundos.
+[ARQUIVOS] resultados/novas/img_040_20261117_131537_660482_3bbad648
+[AVALIAÇÃO] img_040.jpg: IoU 0.835
+
+[INFO] Arquivo selecionado: imagens/novas/img_041.jpg
+[OK] Imagem carregada. Dimensões: 722 x 692 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 2 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 325 | Y: 419 | Largura: 85 | Altura: 43
+[ARQUIVO] resultados/novas/img_041_20261117_131538_430098_eca85d6a/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.259 segundos.
+[ARQUIVOS] resultados/novas/img_041_20261117_131538_430098_eca85d6a
+[AVALIAÇÃO] img_041.jpg: IoU 0.843
+
+[INFO] Arquivo selecionado: imagens/novas/img_042.jpg
+[OK] Imagem carregada. Dimensões: 2858 x 3788 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 7 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 1190 | Y: 2160 | Largura: 465 | Altura: 206
+[ARQUIVO] resultados/novas/img_042_20261117_131538_779745_dff994da/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 1.065 segundos.
+[ARQUIVOS] resultados/novas/img_042_20261117_131538_779745_dff994da
+[AVALIAÇÃO] img_042.jpg: IoU 0.902
+
+[INFO] Arquivo selecionado: imagens/novas/img_043.jpg
+[OK] Imagem carregada. Dimensões: 1181 x 1600 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 7 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 508 | Y: 1124 | Largura: 211 | Altura: 98
+[ARQUIVO] resultados/novas/img_043_20261117_131539_772730_fdbe097a/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.725 segundos.
+[ARQUIVOS] resultados/novas/img_043_20261117_131539_772730_fdbe097a
+[AVALIAÇÃO] img_043.jpg: IoU 0.889
+
+[INFO] Arquivo selecionado: imagens/novas/img_044.jpg
+[OK] Imagem carregada. Dimensões: 2506 x 3666 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 8 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 1202 | Y: 2150 | Largura: 495 | Altura: 225
+[ARQUIVO] resultados/novas/img_044_20261117_131540_610424_aadb524f/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.754 segundos.
+[ARQUIVOS] resultados/novas/img_044_20261117_131540_610424_aadb524f
+[AVALIAÇÃO] img_044.jpg: IoU 0.848
+
+[INFO] Arquivo selecionado: imagens/novas/img_045.jpg
+[OK] Imagem carregada. Dimensões: 3468 x 4624 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 3 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 1316 | Y: 2149 | Largura: 588 | Altura: 275
+[ARQUIVO] resultados/novas/img_045_20261117_131541_384961_d47104db/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.976 segundos.
+[ARQUIVOS] resultados/novas/img_045_20261117_131541_384961_d47104db
+[AVALIAÇÃO] img_045.jpg: IoU 0.913
+
+[INFO] Arquivo selecionado: imagens/novas/img_046.jpg
+[OK] Imagem carregada. Dimensões: 1200 x 1600 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 4 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 520 | Y: 862 | Largura: 192 | Altura: 99
+[ARQUIVO] resultados/novas/img_046_20261117_131542_234698_b6d49c51/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.642 segundos.
+[ARQUIVOS] resultados/novas/img_046_20261117_131542_234698_b6d49c51
+[AVALIAÇÃO] img_046.jpg: IoU 0.899
+
+[INFO] Arquivo selecionado: imagens/novas/img_047.jpg
+[OK] Imagem carregada. Dimensões: 1874 x 2271 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 2 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 856 | Y: 827 | Largura: 185 | Altura: 95
+[ARQUIVO] resultados/novas/img_047_20261117_131542_899977_a0482948/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.651 segundos.
+[ARQUIVOS] resultados/novas/img_047_20261117_131542_899977_a0482948
+[AVALIAÇÃO] img_047.jpg: IoU 0.847
+
+[INFO] Arquivo selecionado: imagens/novas/img_048.jpg
+[OK] Imagem carregada. Dimensões: 1200 x 1600 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 3 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 490 | Y: 610 | Largura: 193 | Altura: 112
+[ARQUIVO] resultados/novas/img_048_20261117_131543_528044_aab9b34b/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.718 segundos.
+[ARQUIVOS] resultados/novas/img_048_20261117_131543_528044_aab9b34b
+[AVALIAÇÃO] img_048.jpg: IoU 0.737
+
+[INFO] Arquivo selecionado: imagens/novas/img_049.jpg
+[OK] Imagem carregada. Dimensões: 1200 x 1600 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 4 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 549 | Y: 1004 | Largura: 218 | Altura: 140
+[ARQUIVO] resultados/novas/img_049_20261117_131544_245941_b1294439/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.897 segundos.
+[ARQUIVOS] resultados/novas/img_049_20261117_131544_245941_b1294439
+[AVALIAÇÃO] img_049.jpg: IoU 0.765
+
+[INFO] Arquivo selecionado: imagens/novas/img_050.jpg
+[OK] Imagem carregada. Dimensões: 720 x 1280 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 9 candidatas após os filtros.
+[6/6] Extraindo placa...
+[OK] Bordas refinadas.
+[OK] Extração concluída. X: 255 | Y: 807 | Largura: 180 | Altura: 89
+[ARQUIVO] resultados/novas/img_050_20261117_131545_145037_611daf36/placas/placa.png
+[RESULTADO] Placa identificada: SIM.
+[TEMPO] 0.398 segundos.
+[ARQUIVOS] resultados/novas/img_050_20261117_131545_145037_611daf36
+[AVALIAÇÃO] img_050.jpg: IoU 0.860
+[AVALIAÇÃO] 15/15 localizadas; 0 erros de execução.
+[ARQUIVO] resultados/novas/avaliacao_6742fbf5.csv

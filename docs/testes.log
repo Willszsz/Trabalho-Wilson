@@ -1,0 +1,37 @@
+test_arquivos_reais_permanecem_inalterados (tests.test_programa.TestesPrograma.test_arquivos_reais_permanecem_inalterados) ... ok
+test_cinza_calcula_luminancia (tests.test_programa.TestesPrograma.test_cinza_calcula_luminancia) ... ok
+test_cinza_nao_altera_original_e_aceita_fatia (tests.test_programa.TestesPrograma.test_cinza_nao_altera_original_e_aceita_fatia) ... ok
+test_cinza_rejeita_tipo_invalido (tests.test_programa.TestesPrograma.test_cinza_rejeita_tipo_invalido) ... ok
+test_cli_codigos_de_saida (tests.test_programa.TestesPrograma.test_cli_codigos_de_saida) ... ok
+test_cli_rejeita_argumentos_conflitantes (tests.test_programa.TestesPrograma.test_cli_rejeita_argumentos_conflitantes) ... ok
+test_configuracao_invalida (tests.test_programa.TestesPrograma.test_configuracao_invalida) ... ok
+test_configuracao_json_e_desconhecida (tests.test_programa.TestesPrograma.test_configuracao_json_e_desconhecida) ... ok
+test_configuracao_valida_parametros_do_refinamento (tests.test_programa.TestesPrograma.test_configuracao_valida_parametros_do_refinamento) ... ok
+test_conteudo_disfarcado (tests.test_programa.TestesPrograma.test_conteudo_disfarcado) ... ok
+test_corrompida (tests.test_programa.TestesPrograma.test_corrompida) ... ok
+test_falha_de_gravacao (tests.test_programa.TestesPrograma.test_falha_de_gravacao) ... ok
+test_formato_nao_suportado (tests.test_programa.TestesPrograma.test_formato_nao_suportado) ... ok
+test_formatos_validos_e_caminhos_unicode (tests.test_programa.TestesPrograma.test_formatos_validos_e_caminhos_unicode) ... ok
+test_fotografia_real_com_variacoes (tests.test_programa.TestesPrograma.test_fotografia_real_com_variacoes) ... ok
+test_fotografias_sem_veiculo (tests.test_programa.TestesPrograma.test_fotografias_sem_veiculo) ... ok
+test_geometria_e_intersecao (tests.test_programa.TestesPrograma.test_geometria_e_intersecao) ... ok
+test_historico_ignora_relatorio_corrompido (tests.test_programa.TestesPrograma.test_historico_ignora_relatorio_corrompido) ... ok
+test_inexistente (tests.test_programa.TestesPrograma.test_inexistente) ... ok
+test_jpeg_truncado (tests.test_programa.TestesPrograma.test_jpeg_truncado) ... ok
+test_limite_bytes (tests.test_programa.TestesPrograma.test_limite_bytes) ... ok
+test_limite_pixels (tests.test_programa.TestesPrograma.test_limite_pixels) ... ok
+test_listagem_recursiva_exclui_saida (tests.test_programa.TestesPrograma.test_listagem_recursiva_exclui_saida) ... ok
+test_lote_continua_apos_falha_e_nao_sobrescreve (tests.test_programa.TestesPrograma.test_lote_continua_apos_falha_e_nao_sobrescreve) ... ok
+test_menu_encerra_em_eof (tests.test_programa.TestesPrograma.test_menu_encerra_em_eof) ... ok
+test_menu_todas_as_opcoes (tests.test_programa.TestesPrograma.test_menu_todas_as_opcoes) ... ok
+test_opcao_sem_intermediarias (tests.test_programa.TestesPrograma.test_opcao_sem_intermediarias) ... ok
+test_png_checksum_invalido (tests.test_programa.TestesPrograma.test_png_checksum_invalido) ... ok
+test_png_sem_sobrescrita (tests.test_programa.TestesPrograma.test_png_sem_sobrescrita) ... ok
+test_refinamento_incorpora_faixa_acima_do_corpo (tests.test_programa.TestesPrograma.test_refinamento_incorpora_faixa_acima_do_corpo) ... ok
+test_retificacao_de_quadrilatero (tests.test_programa.TestesPrograma.test_retificacao_de_quadrilatero) ... ok
+test_sem_veiculo_e_intermediarias (tests.test_programa.TestesPrograma.test_sem_veiculo_e_intermediarias) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 10.047s
+
+OK

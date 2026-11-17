@@ -1,0 +1,81 @@
+
+[LOTE] 1/4
+
+[INFO] Arquivo selecionado: imagens/sem_veiculo/astronaut.png
+[OK] Imagem carregada. Dimensões: 512 x 512 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 0 candidatas após os filtros.
+[6/6] Extração não realizada: nenhuma região atingiu os critérios.
+[RESULTADO] Nenhuma placa foi identificada nesta imagem.
+[TEMPO] 0.148 segundos.
+[ARQUIVOS] resultados/negativas/astronaut_20261117_131545_741972_90405ad2
+
+[LOTE] 2/4
+
+[INFO] Arquivo selecionado: imagens/sem_veiculo/camera.png
+[OK] Imagem carregada. Dimensões: 512 x 512 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 1 candidatas após os filtros.
+[6/6] Extração não realizada: nenhuma região atingiu os critérios.
+[RESULTADO] Nenhuma placa foi identificada nesta imagem.
+[TEMPO] 0.097 segundos.
+[ARQUIVOS] resultados/negativas/camera_20261117_131545_879275_687af4b8
+
+[LOTE] 3/4
+
+[INFO] Arquivo selecionado: imagens/sem_veiculo/coffee.png
+[OK] Imagem carregada. Dimensões: 600 x 400 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 0 candidatas após os filtros.
+[6/6] Extração não realizada: nenhuma região atingiu os critérios.
+[RESULTADO] Nenhuma placa foi identificada nesta imagem.
+[TEMPO] 0.106 segundos.
+[ARQUIVOS] resultados/negativas/coffee_20261117_131545_983218_66ab958e
+
+[LOTE] 4/4
+
+[INFO] Arquivo selecionado: imagens/sem_veiculo/grass.png
+[OK] Imagem carregada. Dimensões: 512 x 512 pixels.
+[1/6] Convertendo para escala de cinza...
+[OK] Conversão concluída.
+[2/6] Aplicando filtro Gaussiano e realce de contraste...
+[OK] Filtro e realce concluídos.
+[3/6] Detectando bordas...
+[OK] Detecção de bordas concluída.
+[4/6] Aplicando operações morfológicas...
+[OK] Morfologia concluída.
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: 4 candidatas após os filtros.
+[6/6] Extração não realizada: nenhuma região atingiu os critérios.
+[RESULTADO] Nenhuma placa foi identificada nesta imagem.
+[TEMPO] 0.195 segundos.
+[ARQUIVOS] resultados/negativas/grass_20261117_131546_087878_f4f59685
+
+===============================================
+RESUMO DO PROCESSAMENTO
+Total: 4 | Identificadas: 0 | Não identificadas: 4 | Falhas: 0
+[ARQUIVO] resultados/negativas/lotes/lote_34a6ac17aaea.json
